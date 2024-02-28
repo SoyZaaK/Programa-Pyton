@@ -1,5 +1,5 @@
 # Programación de Tareas Prácticas en Python 
-## Por Arles Rodríguez PhD
+## Por ZaaK
 
 Curso de Python para desarrollar cosas prácticas de una forma rápida.
 
